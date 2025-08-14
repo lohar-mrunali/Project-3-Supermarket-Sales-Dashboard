@@ -2,15 +2,17 @@ Supermarket Sales Dashboard
 This dashboard provides a comprehensive overview of sales performance for a supermarket shop. It visualizes key metrics such as total sales, total profit, and profit percentage. The dashboard allows filtering by sale type and payment mode, making it a versatile tool for analyzing different aspects of sales data.
 
 Table of Contents
-Overview
-Features
-Dashboard Sections
-Usage
-Future Enhancements
-Overview
+1. Overview
+2. Features
+3. Dashboard Sections
+4. Usage
+5. Future Enhancements
+
+   
+1. Overview
 The sales dashboard offers a visual representation of the supermarket's sales data for the years 2021 and 2022. It helps in understanding the sales trends, product performance, and payment preferences over different time periods.
 
-Features
+2. Features
 Total Sales: Displays the total sales value.
 Total Profit: Shows the total profit earned.
 Profit Percentage: Indicates the profit percentage.
@@ -21,7 +23,8 @@ Sales Type Distribution: Pie chart showing the distribution of sales types (e.g.
 Payment Mode Distribution: Pie chart displaying the distribution of payment modes (e.g., online, cash).
 Top Product and Category: Highlights the top-performing product and category.
 Category Performance: Treemap showing sales distribution across different categories.
-Dashboard Sections
+
+3. Dashboard Sections
 Total Sales, Profit, and Profit Percentage
 Total Sales: 401.41K
 Total Profit: 69K
@@ -47,11 +50,12 @@ Top Category: Category02 (95.27K sales value)
 Category Performance
 A treemap depicting the sales distribution across categories (Category01, Category02, etc.).
 
-Usage
+4. Usage
 Filtering: Use the drop-down menus at the top right to filter the data by sale type and payment mode.
 Time Period Selection: Select the desired year (2021 or 2022) from the year filter to view data for that year.
 Month Selection: Click on a month from the month filter on the left side to view detailed monthly data.
-Future Enhancements
+
+6. Future Enhancements
 Interactive Filters: Add more interactive filters for a more granular analysis.
 Comparison Feature: Implement a feature to compare sales data between different years or months.
 Export Functionality: Enable exporting the dashboard data to CSV or PDF for offline analysis.
